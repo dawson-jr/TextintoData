@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+            <titleStmt>
+                <title>History of the Longobards</title>
+<author>Paul, the Deacon</author>
+        <authorURN>urn:cts:latinLit:stoa0224</authorURN>
+        <language ident="lat">Latin</language>
+    <urlParsed>https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Origo_Gentis_Langobardorum*.html</urlParsed>
+    <dateParsed>Tue Feb 07 2023 08:07:55 GMT-0600 (Central Standard Time)</dateParsed>
+    <Editor>George Waitz</Editor>
+    <Publisher>LacusCurtius</Publisher>
+    <Authority>Bill Thayer</Authority>
+    <Source_Publisher>Monumenta Germaniae Historica</Source_Publisher>
+    <Source_Pub_Place>Hanover, Germany</Source_Pub_Place>
+    <Source_Pub_Date>1878</Source_Pub_Date>
+    </titleStmt>
+  </fileDesc>
+</teiHeader>
+    <text>
+       <div type="chapter" n="frontmatter" author="G. Waitz">Postquam Rothari rex prologo edicti jussu suo compositi seriem regum Langobardorum inseruerat, quam hic repetere noluimus, codici cuidam paulo uberior Langobardorum historia addita est, quae ea congessit memoriaeque tradidit quae de origine et migratione gentis deque regibus priscis aut in ore populi versabantur aut alibi tradita erant. Exstat in tribus edicti codicibus ibique iam a Paulo legebatur,<ref type="note" target="274" /> quem ex hac “Origine gentis Langobardorum” quam plurima in historiam a se conscriptam transtulisse, Bethmann primus intellexit et luculenter probavit.<ref type="note" target="275" /> Auctor quiquis fuerit post medium saeculum VII. scripsit<ref type="note" target="276" /> nobisque venerandum antiquitatis monumentum reliquit. Nam praeter gentis originem, qualem veteres narrabant et fortasse cantabant, satis accuratam annorum computationem inde ab Albuini tempore exhibet, jam antea procul dubio litteris datam, sed hic tantum servatam.<ref type="note" target="277" /> Praeter Paulum etiam auctor s. IX. haec exscripsit, qui similem historiae Langobardicae conspectum alii legum codici jam Gothano addidit, quem infra edituri sumus. 
+Codices qui exstant sunt: 
+1a<ref type="note" target="s1a" />) Matritensis regius D.117, s. X, quem Duflot et Knust in usus societatis nostrae verterunt; cf. Bluhme, LL. IV, p. xxvii sq. Origo f.V-5 scripta est. 
+1b<ref type="note" target="s1b" />) Cavensis, s. XI. Inc. scriptus, de quo cf. Bluhme, l.c. IV, p. xxx sq. Legitur Origo f. 1-4; sed f. 2<ref type="note" target="s2" /> jam deperditum est. Exscrispit Bethmann. 
+2<ref type="note" target="s2" />) Mutinensis in archivo canonicorum ecclesiae cathedralis asservatus, s. X. ex., de quo cf. Merkel, Arch. XI, p596; Bluhme l.c. p. xl. Merkelii apographum cum codice iterum, quantum temporis concessi angustia permisit, contulit V. Cl. Heller. 
+Bethmann huius libri textum ceteris praeferendum judicavit (Arch. X, p355) sed in hoc procul dubio falsus est, cum codex non solum satis negligenter exaratus, multis iisque arbitrariis emendationibus scateat, sed non semel etiam veterem et simplicem sermonem mutaverit,<ref type="note" target="278" /> verba omiserit vel addiderit. 
+Edita est haec brevis historia cum Legibus Langobardorum a Baudi di Vesme (Mon. patriae V, p5) et Bluhme (LL. IV, p641), quiet codicis Matritensis textui aliorum librorum lectiones subjecit. 
+Nunc illo fundamento posito, quantum licuit genuinum lectionem restituere conatus sum. Annotationes paucas adjeci, ex Bethmanni scholis sumtas, qui in rerum Langobardicarum chronologia stabilienda diligenter versatus est, aliis ad Pauli editionem sepositis. Capitum divisionem institui.
+</div>
+    <body>
+<div type="chapter" n="1">
+      <head>Origo Gentis Langobardorum</head>
+       <invocation> In nomine Domini incipit Origo Gentis Langobardorum.<ref type="note" target="6" /> </invocation><p>Est<ref type="note" target="7" /> insula qui<ref type="note" target="8" /> dicitur Scadanan,<ref type="note" target="9" /> quod interpretatur excidia,<ref type="note" target="10" /> in partibus<ref type="note" target="11" /> aquilonis, ubi multae gentes<ref type="note" target="12" /> habitant;<ref type="note" target="13" /> inter quos<ref type="note" target="14" /> erat gens parva quae Winnilis<ref type="note" target="15" /> vocabatur. Et erat cum eis mulier nomine Gambara, habebatque<ref type="note" target="16" /> duos filios, nomen uni Ybor et nomen alteri Agio;<ref type="note" target="17" /> ipsi cum matre sua<ref type="note" target="18" /> nomine Gambara<ref type="note" target="19" /> principatum tenebant<ref type="note" target="20" /> super Winniles.<ref type="note" target="21" /> Moverunt se ergo<ref type="note" target="22" /> duces Wandalorum,<ref type="note" target="23" /> id est Ambri<ref type="note" target="24" /> et Assi,<ref type="note" target="25" /> cum exercitu suo,<ref type="note" target="26" /> et dicebant ad Winniles:<ref type="note" target="27" /> “Aut solvite<ref type="note" target="28" /> nobis<ref type="note" target="29" /> tributa, aut praeparate vos ad pugnam et pugnate nobiscum”. Tunc responderunt Ybor et Agio cum matre sua Gambara:<ref type="note" target="30" /> “Melius est nobis pugnam praeparare,<ref type="note" target="31" /> quam Wandalis<ref type="note" target="32" /> tributa persolvere“. Tunc Ambri<ref type="note" target="33" /> et Assi, hoc<ref type="note" target="34" /> est duces Wandalorum, rogaverunt Godan,<ref type="note" target="35" />·<ref type="note" target='*1' /> ut daret<ref type="note" target="36" /> eis super Winniles victoriam.<ref type="note" target="37" /> Respondit Godan dicens:<ref type="note" target="38" /> “Quos sol<ref type="note" target="39" /> surgente antea videro, ipsis dabo victoriam”. Eo<ref type="note" target="40" /> tempore Gambara cum duobus filiis suis, id est<ref type="note" target="41" /> Ybor et Agio,<ref type="note" target="42" /> qui principes<ref type="note" target="43" /> erant super Winniles, rogaverunt<ref type="note" target="44" /> Fream, [uxorem<ref type="note" target="45" /> Godam,] ut ad Winniles<ref type="note" target="46" /> esset propitia. Tunc Frea dedit consilium, ut<ref type="note" target="47" /> sol surgente venirent Winniles et mulieres eorum crines solutae circa faciem in similitudinem barbae et cum viris suis venirent. Tunc luciscente<ref type="note" target="48" /> sol dum surgeret, giravit Frea, uxor
+Godan, lectum ubi recumbebat vir eius, et fecit faciem eius contra orientem, et excitavit eum. Et<ref type="note" target="49" /> ille aspiciens vidit Winniles et mulieres ipsorum<ref type="note" target="50" /> habentes crines solutas circa faciem; et ait:<ref type="note" target="51" /> “Qui sunt isti longibarbae?”<ref type="note" target="52" />·<ref type="note" target='*2' /> Et<ref type="note" target="53" /> dixit Frea ad Godan: “Sicut<ref type="note" target="54" /> dedisti nomen, da illis<ref type="note" target="55" /> et victoriam”. Et<ref type="note" target="56" /> dedit eis victoriam, ut ubi visum esset vindicarent se et victoriam haberent. Ab illo tempore Winnilis Langobardi<ref type="note" target="57" /> vocati sunt.</p>
+</div>
+<div type="chapter" n="2">
+      <p>Et moverunt<ref type="note" target="58" /> se exhinde Langobardi, et venerunt in Golaidam,<ref type="note" target="59" /> et postea possiderunt aldonus<ref type="note" target="60" />·<ref type="note" target="279" /> Anthaib<ref type="note" target="61" /> et Bainaib<ref type="note" target="62" /> seu<ref type="note" target="63" /> et Burgundaib;<ref type="note" target="64" /> et<ref type="note" target="65" /> dicitur, quia fecerunt sibi regem nomine<ref type="note" target="66" /> Agilmund,<ref type="note" target="67" /> filium Agioni,<ref type="note" target="68" /> ex<ref type="note" target="69" /> genere Gugingus. Et post ipsum regnavit Laiamicho<ref type="note" target="70" />·<ref type="note" target="280" /> ex<ref type="note" target="71" /> genere Gugingus. Et post ipsum<ref type="note" target="72" /> regnavit Lethuc,<ref type="note" target="73" /> et<ref type="note" target="74" /> dicitur, quia<ref type="note" target="75" /> regnasset annos plus minus quadraginta.<ref type="note" target="76" /> Et post ipsum regnavit Aldihoc,<ref type="note" target="77" /> filius Lethuc. Et post ipsum regnavit Godehoc.<ref type="note" target="78" /></p>
+</div>
+<div type="chapter" n="3">
+      <p>Illo<ref type="note" target="79" /> tempore exivit rex Audoachari<ref type="note" target="80" /> de Ravenna cum exercitu Alanorum,<ref type="note" target="81" /> et venit in Rugilanda<ref type="note" target="82" /> et inpugnavit<ref type="note" target="83" /> Rugos, et occidit<ref type="note" target="84" /> Theuvane<ref type="note" target="85" />·<ref type="note" target="281" /> regem Rugorum, secumque<ref type="note" target="86" /> multos captivos duxit in Italiam. Tunc exierunt<ref type="note" target="87" /> Langobardi de suis regionibus, et habitaverunt in Rugilanda annos aliquantos.</p>
+</div>
+<div type="chapter" n="4">
+      <p>Post eum<ref type="note" target="88" /> regnavit Claffo, filius Godehoc.<ref type="note" target="89" /> Et post ipsum regnavit Tato,<ref type="note" target="90" /> filius Claffoni.<ref type="note" target="91" /> Sederunt Langobardi in campis<ref type="note" target="92" /> Feld annos<ref type="note" target="93" /> tres. Pugnavit<ref type="note" target="94" /> Tato cum Rodolfo rege Herulorum,<ref type="note" target="95" /> et occidit eum, tulit<ref type="note" target="96" /> vando<ref type="note" target="97" />·<ref type="note" target='*3' /> ipsius et capsidem. Post<ref type="note" target="98" /> eum Heruli<ref type="note" target="95" /> regnum<ref type="note" target="99" /> non habuerunt.<ref type="note" target="100" /> Et occidit Wacho,<ref type="note" target="101" /> filius Unichis,<ref type="note" target="102" /> Tatonem regem barbanem<ref type="note" target="103" /> suum cum Zuchilone.<ref type="note" target="104" /> Et pugnavit Wacho, et<ref type="note" target="105" /> pugnavit Ildichis,<ref type="note" target="106" /> filius Tatoni,<ref type="note" target="107" /> et fugit Ildichis<ref type="note" target="108" /> ad Gippidos,<ref type="note" target="109" /> ubi<ref type="note" target="110" /> mortuus est. Iniuria<ref type="note" target="111" /> vindicanda Gippidi<ref type="note" target="112" /> scandalum commiserunt cum Langobardis. Eo tempore inclinavit<ref type="note" target="113" /> Wacho
+Suavos<ref type="note" target="114" /> sub regno Langobardorum.<ref type="note" target="115" /> Wacho habuit uxores tres:<ref type="note" target="116" /> Raicundam,<ref type="note" target="117" /> filia<ref type="note" target="118" /> Fisud<ref type="note" target="119" /> regis Turingorum;<ref type="note" target="120" /> et<ref type="note" target="121" /> postea accepit<ref type="note" target="122" /> uxorem Austrigusa,<ref type="note" target="123" /> filiam Gippidorum;<ref type="note" target="124" /> et habuit Wacho de Austrigusa filias duas, nomen unae<ref type="note" target="125" /> Wisigarda,<ref type="note" target="126" /> quam<ref type="note" target="127" /> tradidit in matrimonium<ref type="note" target="128" /> Theudiperti<ref type="note" target="129" /> regis Francorum; et nomen secundae Walderada,<ref type="note" target="130" /> quam<ref type="note" target="131" /> habuit uxorem Scusuald<ref type="note" target="132" />·<ref type="note" target="282" /> rex Francorum, quam<ref type="note" target="133" /> odio habens, tradidit eam Garipald<ref type="note" target="134" /> in uxorem.<ref type="note" target='*4' /> Filia<ref type="note" target="135" /> regis Herulorum tertiam<ref type="note" target="136" /> uxorem habuit nomen Silinga;<ref type="note" target="137" /> de ipsa habuit filium nomine Waltari.<ref type="note" target="138" /> Mortuus<ref type="note" target="139" /> est Wacho,<ref type="note" target="140" /> et<ref type="note" target="141" /> regnavit filius<ref type="note" target="142" /> ipsius Waltari<ref type="note" target="143" /> annos septem; farigaidus:<ref type="note" target="144" /> isti omnes Lethinges<ref type="note" target="145" /> fuerunt.</p>
+</div>
+<div type="chapter" n="5">
+      <p>Et post Waltari regnavit Auduin;<ref type="note" target="146" /> ipse<ref type="note" target="147" /> adduxit Langobardos<ref type="note" target="148" /> in Pannonia. Et<ref type="note" target="149" /> regnavit Albuin,<ref type="note" target="150" /> filius ipsius, post eum, cui mater est<ref type="note" target="151" /> Rodelenda.<ref type="note" target="152" /> Eo tempore pugnavit Albuin<ref type="note" target="153" /> cum rege Gippidorum<ref type="note" target="154" /> nomine Cunimund,<ref type="note" target="155" /> et mortuus est Cunimund in<ref type="note" target="156" /> ipsa pugna, et debellati sunt Gippidis.<ref type="note" target="157" /> Tulit Albuin uxore<ref type="note" target="158" /> Rosemunda, filia Cunimundi, quae<ref type="note" target="159" /> praedaverat,<ref type="note" target="283" /> quia iam mortua fuerat<ref type="note" target="160" /> uxor ipsius Flutsuinda,<ref type="note" target="161" /> quae<ref type="note" target="162" /> fuit filia Flothario<ref type="note" target="163" /> regis Francorum; de qua habuit filia<ref type="note" target="164" /> nomine Albsuinda.<ref type="note" target="165" /> Et habitaverunt Langobardi in Pannonia annis quadraginta duo.<ref type="note" target="166" />·<ref type="note" target="284" /> Ipse Albuin adduxit Langobardos in Italia,<ref type="note" target="167" /> invitatos<ref type="note" target="168" /> a Narsete<ref type="note" target="169" /> scribarum;<ref type="note" target="170" /> et movit<ref type="note" target="171" /> Albuin rex Langobardorum<ref type="note" target="172" /> de Pannonia mense<ref type="note" target="173" /> Aprilis<ref type="note" target="174" /> a pascha indictione prima.<ref type="note" target="175" /> Secunda<ref type="note" target="176" /> vero indictione<ref type="note" target="177" /> coeperunt<ref type="note" target="178" /> praedare in<ref type="note" target="179" /> Italia. Tertia autem indictione factus est dominus Italiae. Regnavit<ref type="note" target="180" /> Albuin in Italia annos tres, et occisus est in Verona in palatio ab
+Hilmichis<ref type="note" target="181" /> et Rosemunda<ref type="note" target="182" /> uxore<ref type="note" target="183" /> sua per consilium Peritheo.<ref type="note" target="184" /> Voluit<ref type="note" target="185" /> regnare Hilmichis, et non potuit, quia volebant eum Langobardi occidere. Tunc mandavit Rosemunda ad Longinum praefectum, ut eam<ref type="note" target="186" /> reciperet Ravenna.<ref type="note" target="187" /> Mox<ref type="note" target="188" /> ut audivit Longinus, gavisus est, misit<ref type="note" target="189" /> navem angarialem, et tulerunt Rosemunda et Hilmichis<ref type="note" target="190" /> et Albsuindam,<ref type="note" target="191" /> filia<ref type="note" target="192" /> Albuin<ref type="note" target="193" /> regis, et omnes thesauros Langobardorum secum duxerunt<ref type="note" target="194" /> in<ref type="note" target="195" /> Ravenna. Tunc ortare<ref type="note" target="196" /> coepit Longinus praefectus<ref type="note" target="197" /> Rosemunda,<ref type="note" target="198" /> ut occideret Hilmichis<ref type="note" target="199" /> et esset uxor Longini.<ref type="note" target="200" /> Audito<ref type="note" target="201" /> consilium<ref type="note" target="202" /> ipsius, temperavit venenum, et post valneum<ref type="note" target="203" /> dedit ei<ref type="note" target="204" /> in caldo<ref type="note" target="205" /> bibere. Cumque bibisset<ref type="note" target="206" /> Hilmichis,<ref type="note" target="207" /> intellexit,<ref type="note" target="208" /> quod malignum<ref type="note" target="209" /> bibisset;<ref type="note" target="206" /> praecepit, ut ipsa<ref type="note" target="210" /> Rosemunda biberet invita;<ref type="note" target="211" /> et<ref type="note" target="212" /> mortui sunt ambo. Tunc Longinus praefectus tulit thesauros<ref type="note" target="213" /> Langobardorum, et Albsuinda,<ref type="note" target="214" /> filia<ref type="note" target="215" /> Albuin regis, iussit<ref type="note" target="216" /> ponere in navem et transmisit<ref type="note" target="217" /> eam Constantinopolim<ref type="note" target="218" /> ad imperatorem.</p>
+</div>
+<div type="chapter" n="6">
+      <p>Reliqui<ref type="note" target="219" /> Langobardi levaverunt sibi regem nomine Cleph<ref type="note" target="220" /> de Beleos, et regnavit Cleph<ref type="note" target="221" /> annos duos, et mortuus est. Et<ref type="note" target="222" /> iudicaverunt duces Langobardorum annos duodecim;<ref type="note" target="223" /> posthaec<ref type="note" target="224" /> levaverunt<ref type="note" target="225" /> sibi regem nomine Autarine,<ref type="note" target="226" /> filio Claffoni;<ref type="note" target="227" /> et accepit Autari<ref type="note" target="228" /> uxorem Theudelenda,<ref type="note" target="229" /> filia Garipald<ref type="note" target="230" /> et Walderade<ref type="note" target="231" /> de Baiuaria.<ref type="note" target="232" /> Et venit cum Theudelenda<ref type="note" target="233" /> frater<ref type="note" target="234" /> ipsius nomine Gundoald,<ref type="note" target="235" /> et ordinavit eum Autari rex ducem in civitatem<ref type="note" target="236" /> Astense. Et regnavit Autari annos septem. Et exivit Acquo<ref type="note" target="237" /> dux Turingus<ref type="note" target="238" /> de Thaurinis,<ref type="note" target="239" /> et iunxit se Theudelendae<ref type="note" target="240" /> reginae, et factus est rex<ref type="note" target="241" /> Langobardorum; et occidit duces<ref type="note" target="242" /> revelles suos, Zangrolf<ref type="note" target="243" /> de Verona, Mimulf<ref type="note" target="244" /> de insula Sancti Juliani<ref type="note" target="245" /> et Gaidulf<ref type="note" target="246" /> de Bergamum,<ref type="note" target="247" /> et<ref type="note" target="248" /> alios qui<ref type="note" target="249" /> revelles fuerunt; et genuit Acquo<ref type="note" target="250" /> de Theodelenda filiam nomine Gunperga.<ref type="note" target="251" /> Et regnavit Acquo<ref type="note" target="252" /> annos 6.<ref type="note" target="285" /> Et post ipso regnavit Aroal annos duodecim. Et post ipso<ref type="note" target="253" /> regnavit Rothari ex<ref type="note" target="254" /> genere Arodus,<ref type="note" target="255" /> et rupit civitatem<ref type="note" target="256" /> vel<ref type="note" target="257" /> castra Romanorum quae fuerunt circa litora<ref type="note" target="258" />
+apriso<ref type="note" target="259" /> Lune usque in terra<ref type="note" target="260" /> Francorum quam Ubitergium<ref type="note" target="261" /> ad partem orienti,<ref type="note" target="262" /> et pugnavit circa fluvium Scultenna, et ceciderunt a<ref type="note" target="263" /> parte Romanorum octo milia numerus.<ref type="note" target="264" /></p>
+</div>
+<div type="chapter" n="7">
+      <p>Et regnavit Rothari<ref type="note" target="265" /> annos decem et septem. Et post ipsum regnavit Aripert<ref type="note" target="266" /> annos novem. Et post ipsum<ref type="note" target="267" /> regnavit Grimoald. Eo tempore exivit Constantinus imperator de Constantinopolim, et venit in partes Campaniae, et regressus<ref type="note" target="268" /> est in Sicilia, et occisus est a suis.</p>
+</div>    
+<div type="chapter" n="postscript">Et<ref type="note" target="269" /> regnavit Grimoald annos novem; et post regnavit Berthari.<ref type="note" target="270" /> 
+</div>
+  </body>
+  <div type="notes">
+  <footnotes>
+    <note id="1" original="*1">2 add. in margine: Godam gentes deum Mercurium colebant.</note>
+    <note id="2" original="*2">2 add. in margine: [lan]g id est lon[gus], bard id est [ba]rbam, a quo [vo]cati sunt Langobardi.</note>
+    <note id="3" original="*3">2 super bandos scr.: id est arma, et super capsides: quod nos elmos dicimus.</note>
+    <note id="4" original="*4">2 add.: principem Baioariorum.</note>
+    <note id="5" original="*5">In 1a<ref type="note" target="s1a" />, b<ref type="note" target="s1b" /> sequitur Rotharis regis prologus cum serie regum Langobardorum; in 2<ref type="note" target="s2" /> catalogus maximam partem ex hac petitus, ita: Primus rex Langobardorum fuit Agelmud ex genere Guingus, secundas Lamicho; tertius Leth; quartus Fildehoc, filius Let; quintus Godehoc; Sextus Claffo, filius Godeoc; septimus Tato, filius Claffoni; octavus Wacho, filius Unichis, nepusº Tatoni; nonus Waltari; decimus Audoinus ex genere Gaugus; undecimus Alboinus, filius Audoin, qui exercitum in Italia adduxit;<ref type="note" target='n' /> duodecimus Clep; terciodecimus Authari, filio Claffoni; quartodecimo Agiluf Turingus ex genere Anawat; quintodecimus Adalwald, filius Agluf; sextodecimus Ariovald ex genere Caupus; septimodecimo Rothari rex, filius Nanding, ex genere Arodus. Nondingus, filius Noconi; Noco, filius Alamund; Alamund, filius Alamand; Alamand, filius Ilzoni; Ilzo, filius Veiloni; Veilo, filius Weoni; Weo, filius Fachoni; Faccho, filius Mammoni; Mammo, filius Utfora.</note>
+    <note id="6" original="a">In N. D. nostri Jhesu Christi I. horigo g. nostre L. 1b<ref type="note" target="s1b" />; in codice 2<ref type="note" target="s2" /> paucae tantum litterae legi possunt.</note>
+    <note id="7" original="b">Erat 2<ref type="note" target="s2" />; id est sub consule qui 1a<ref type="note" target="s1a" />; id est consuli qui 1b<ref type="note" target="s1b" />.</note>
+    <note id="8" original="c">quae superscr. quadam 2<ref type="note" target="s2" />.</note>
+    <note id="9" original="d">Scadan 2<ref type="note" target="s2" />, ubi in margine: id est scan . . . dan.</note>
+    <note id="10" original="e">deest 1a<ref type="note" target="s1a" />, b; exindia superscr. al. excidia 2<ref type="note" target="s2" />. Excidia est interpretatio vocis Langobardicae scadan, nostrum schaden. Bethm.</note>
+    <note id="11" original="f">partis 1b<ref type="note" target="s1b" />.</note>
+    <note id="12" original="g">multa gens 1b<ref type="note" target="s1b" />.</note>
+    <note id="13" original="h">inhabitabant 2<ref type="note" target="s2" />.</note>
+    <note id="14" original="i">quibus 1b<ref type="note" target="s1b" />; quas 2<ref type="note" target="s2" />.</note>
+    <note id="15" original="k">Guinnilis 1a<ref type="note" target="s1a" />; Winnolis 1b<ref type="note" target="s1b" />; Winili 2<ref type="note" target="s2" />.</note>
+    <note id="16" original="l">quae habebat 2<ref type="note" target="s2" />.</note>
+    <note id="17" original="m">Aio 1a<ref type="note" target="s1a" /> const.; Agyo 2<ref type="note" target="s2" />.</note>
+    <note id="18" original="n">deest 1a<ref type="note" target="s1a" />, litteris tribus vel quatuor abscisis.</note>
+    <note id="19" original="o">qui in margine add. 2<ref type="note" target="s2" />.</note>
+    <note id="20" original="p">tenebat 1a<ref type="note" target="s1a" />.</note>
+    <note id="21" original="q">Vinnolis 1b<ref type="note" target="s1b" />; Winilis 2<ref type="note" target="s2" />.</note>
+    <note id="22" original="r">ergo se 2<ref type="note" target="s2" />.</note>
+    <note id="23" original="s">Guand. 1a<ref type="note" target="s1a" /> const.</note>
+    <note id="24" original="t">Imbriu 2<ref type="note" target="s2" />.</note>
+    <note id="25" original="u">Tassit 1b<ref type="note" target="s1b" /> const.</note>
+    <note id="26" original="v">exercitibus suis 1a<ref type="note" target="s1a" />.</note>
+    <note id="27" original="w">Winnilos 2<ref type="note" target="s2" />.</note>
+    <note id="28" original="x">per superscr. 2<ref type="note" target="s2" />.</note>
+    <note id="29" original="y">deest 1a<ref type="note" target="s1a" />.</note>
+    <note id="30" original="z">deest 1a<ref type="note" target="s1a" />; G. superscr. nomine 2<ref type="note" target="s2" />; dicentes add. 1b<ref type="note" target="s1b" />.</note>
+    <note id="31" original="a">parare 1a<ref type="note" target="s1a" />.</note>
+    <note id="32" original="b">Guandalis 1a<ref type="note" target="s1a" />, b const.; Wandali 2<ref type="note" target="s2" />.</note>
+    <note id="33" original="c">Imbri 2<ref type="note" target="s2" />.</note>
+    <note id="34" original="d">h. e. des. 2<ref type="note" target="s2" />.</note>
+    <note id="35" original="e">Godam 2<ref type="note" target="s2" /> semper.</note>
+    <note id="36" original="f">diceret Knust in 1b<ref type="note" target="s1b" /> legit.</note>
+    <note id="37" original="g">posthaec in 1b<ref type="note" target="s1b" /> folium excidit, in quo erant sequentia usque regem non habu.</note>
+    <note id="38" original="h">et dixit 2<ref type="note" target="s2" />.</note>
+    <note id="39" original="i">sole 2<ref type="note" target="s2" />.</note>
+    <note id="40" original="k">Eodem 2<ref type="note" target="s2" />.</note>
+    <note id="41" original="l">i. e. desunt 2<ref type="note" target="s2" />.</note>
+    <note id="42" original="m">Abyo 2<ref type="note" target="s2" />.</note>
+    <note id="43" original="n">er. pr. 2<ref type="note" target="s2" />.</note>
+    <note id="44" original="o">rogaberunt 1a<ref type="note" target="s1a" />; iterum ierunt et superscr. 2<ref type="note" target="s2" />.</note>
+    <note id="45" original="p">des. 1a<ref type="note" target="s1a" />; Godā 2<ref type="note" target="s2" />.</note>
+    <note id="46" original="q">ut Winili 2<ref type="note" target="s2" />.</note>
+    <note id="47" original="r">ut cum sol surgeret, Winili cum uxoribus suis solutis crinibus circa facies suas in similitudinem barbe (cum viros suos superscr.) venirent 2<ref type="note" target="s2" />.</note>
+    <note id="48" original="s">l. caelo dum sol 2<ref type="note" target="s2" />.</note>
+    <note id="49" original="a">At 2<ref type="note" target="s2" />.</note>
+    <note id="50" original="b">eorum crinibus solutis circa facies suas (superscr. imodum barbe) 2<ref type="note" target="s2" />.</note>
+    <note id="51" original="c">dixit 2<ref type="note" target="s2" />.</note>
+    <note id="52" original="d">longobarbii 2<ref type="note" target="s2" />.</note>
+    <note id="53" original="e">deest 2<ref type="note" target="s2" />.</note>
+    <note id="54" original="f">domine superscr. postquam 2<ref type="note" target="s2" />.</note>
+    <note id="55" original="g">eis 2<ref type="note" target="s2" />.</note>
+    <note id="56" original="h">et d. e. v. desunt 2<ref type="note" target="s2" />, qui pergit: ubi illorum est vindicare et v.</note>
+    <note id="57" original="i">Longob. 1a<ref type="note" target="s1a" /> saepius; facti sunt Longobardi 2<ref type="note" target="s2" />, ubi in margine: vocati sunt.</note>
+    <note id="58" original="k">m. s. e. L. et des. 2<ref type="note" target="s2" />.</note>
+    <note id="59" original="l">Golaida 2<ref type="note" target="s2" />; Golanda Paulus.</note>
+    <note id="60" original="m">aldones 2<ref type="note" target="s2" />, qui in marg. add.: aldoinþ (id est aldoinus).</note>
+    <note id="61" original="n">Anthabus 1a<ref type="note" target="s1a" />; Anthaip 2<ref type="note" target="s2" />; Anthaib et Anthab Pauli codd.</note>
+    <note id="62" original="o">Banayb corr. Baynaib 2<ref type="note" target="s2" />; Bant(h)aib Paul.</note>
+    <note id="63" original="p">bet B. 1a<ref type="note" target="s1a" />.</note>
+    <note id="64" original="q">Burgathaibus 1a<ref type="note" target="s1a" />; Burgundaib et Vurg. P. codd.</note>
+    <note id="65" original="r">qui ibi fecerunt 2<ref type="note" target="s2" />.</note>
+    <note id="66" original="s">deest 2<ref type="note" target="s2" />.</note>
+    <note id="67" original="t">Agelmund 2<ref type="note" target="s2" />.</note>
+    <note id="68" original="u">Aio 1a<ref type="note" target="s1a" />; Agyoni 2<ref type="note" target="s2" />.</note>
+    <note id="69" original="v">ex genere Gugingus in marg. suppl. 2<ref type="note" target="s2" />.</note>
+    <note id="70" original="w">Lamicho 2<ref type="note" target="s2" />.</note>
+    <note id="71" original="x">ex G. g. des. 2<ref type="note" target="s2" />.</note>
+    <note id="72" original="y">deinde r. 2<ref type="note" target="s2" />.</note>
+    <note id="73" original="z">Leth 2<ref type="note" target="s2" />; Lethu, Lethuc, Leth P. codd.</note>
+    <note id="74" original="a">unde 2<ref type="note" target="s2" />.</note>
+    <note id="75" original="b">quia regnavit p. m. annis q. 2<ref type="note" target="s2" />.</note>
+    <note id="76" original="c">et post ipsum regnavit Lethun add. 2<ref type="note" target="s2" />; ubi sequentia post suppleta vix jam legi possunt.</note>
+    <note id="77" original="d">Ilde . . . . . . . e . . . (ius) 2<ref type="note" target="s2" />.</note>
+    <note id="78" original="e">Godeoc 2<ref type="note" target="s2" />.</note>
+    <note id="79" original="f">In illo 2<ref type="note" target="s2" />.</note>
+    <note id="80" original="g">Audacharus 2<ref type="note" target="s2" />.</note>
+    <note id="81" original="h">. . . . norum 2<ref type="note" target="s2" />.</note>
+    <note id="82" original="i">Rudilanda Goth. et ita postea; Rugianda corr. Rugilanda 2<ref type="note" target="s2" />.</note>
+    <note id="83" original="k">et pugnavit cum Ruges 2<ref type="note" target="s2" />.</note>
+    <note id="84" original="l">occisit 2<ref type="note" target="s2" />.</note>
+    <note id="85" original="m">Thecuane 2<ref type="note" target="s2" />; Fewane Goth.</note>
+    <note id="86" original="n">et secum d. m. c. 2<ref type="note" target="s2" />.</note>
+    <note id="87" original="o">surrexerunt 2<ref type="note" target="s2" />.</note>
+    <note id="88" original="p">Et postea 2<ref type="note" target="s2" />.</note>
+    <note id="89" original="q">Godeho 1a<ref type="note" target="s1a" />; Godehoc 2<ref type="note" target="s2" />.</note>
+    <note id="90" original="r">Tatto Goth.</note>
+    <note id="91" original="s">Claffonis 1a<ref type="note" target="s1a" />; Clafonis 2<ref type="note" target="s2" />.</note>
+    <note id="92" original="t">campo Feldach 2<ref type="note" target="s2" />; c. filda Goth.</note>
+    <note id="93" original="u">annis tribus 2<ref type="note" target="s2" />.</note>
+    <note id="94" original="v">et p. 2<ref type="note" target="s2" />.</note>
+    <note id="95" original="w1w2">Hȩr. 1a<ref type="note" target="s1a" />.</note>
+    <note id="96" original="x">et t. 2<ref type="note" target="s2" />.</note>
+    <note id="97" original="y">bandos ipsius et capsides 2<ref type="note" target="s2" />.</note>
+    <note id="98" original="z">et postea Eruli 2<ref type="note" target="s2" />.</note>
+    <note id="99" original="a">regem 2<ref type="note" target="s2" />, Goth.</note>
+    <note id="100" original="b">pergit 1b<ref type="note" target="s1b" />.</note>
+    <note id="101" original="c">Vacho 1a<ref type="note" target="s1a" />; Wacco 1b<ref type="note" target="s1b" /> const.</note>
+    <note id="102" original="d">Hilmichis 1b<ref type="note" target="s1b" />; in 2<ref type="note" target="s2" /> legi non potest.</note>
+    <note id="103" original="e">barbanum suum 1a<ref type="note" target="s1a" />; barbane suo 1b<ref type="note" target="s1b" />.</note>
+    <note id="104" original="f">Zuchilonem 1b<ref type="note" target="s1b" />; Zuchilone 2<ref type="note" target="s2" />; Uinsilane Goth.</note>
+    <note id="105" original="g">W. cum Ildechis filium 2<ref type="note" target="s2" />.</note>
+    <note id="106" original="h">Ilmichis 1b<ref type="note" target="s1b" />.</note>
+    <note id="107" original="i">Tatonis 1a<ref type="note" target="s1a" />.</note>
+    <note id="108" original="k">Ilmichis 1b<ref type="note" target="s1b" />; Ildechis 2<ref type="note" target="s2" />; Heldechis Goth.</note>
+    <note id="109" original="l">Gypidas 1a<ref type="note" target="s1a" />; Gippides 1b<ref type="note" target="s1b" />; Gyppidos 2<ref type="note" target="s2" />; Gibidos Goth.</note>
+    <note id="110" original="m">et mortuus est ibi 2<ref type="note" target="s2" />.</note>
+    <note id="111" original="n">iniuriam eius vindicanda. 1a<ref type="note" target="s1a" />; est iniuria vindicanda. G. 1b<ref type="note" target="s1b" />; in iniuria vindicanda. et G. 2<ref type="note" target="s2" />.</note>
+    <note id="112" original="o">Gypidis 1a<ref type="note" target="s1a" />; Gyppidi 1b<ref type="note" target="s1b" />; Gypidi 2<ref type="note" target="s2" />; Gibites Goth.</note>
+    <note id="113" original="p">s. l. . gavit 2<ref type="note" target="s2" />.</note>
+    <note id="114" original="a">Suavor՚ 1b<ref type="note" target="s1b" />; Suabos 2<ref type="note" target="s2" />.</note>
+    <note id="115" original="b">Long. 1a<ref type="note" target="s1a" />.</note>
+    <note id="116" original="c">t. u. 2<ref type="note" target="s2" />.</note>
+    <note id="117" original="d">Raicumdam 1a<ref type="note" target="s1a" />; Rathecunda 1b<ref type="note" target="s1b" />; una nomine Red . . unda 2<ref type="note" target="s2" />; Ranigunda Goth.; Ranicunda, Radicunda, Radegunda P. codd.</note>
+    <note id="118" original="e">filiam 1a<ref type="note" target="s1a" />.</note>
+    <note id="119" original="f">Fisut 1b<ref type="note" target="s1b" />; suld 2<ref type="note" target="s2" />? Pisen Goth.</note>
+    <note id="120" original="g">Thur. 1b<ref type="note" target="s1b" />.</note>
+    <note id="121" original="h">deest 2<ref type="note" target="s2" />; et post eam 1b<ref type="note" target="s1b" />.</note>
+    <note id="122" original="i">aliam duxit uxorem nomine A. 2<ref type="note" target="s2" />.</note>
+    <note id="123" original="k">Austrigosam 1b<ref type="note" target="s1b" />; Austrecusa Goth.; Hostrigosa et Austrigosa P. codd.</note>
+    <note id="124" original="l">Gypidorum 1a<ref type="note" target="s1a" />; Gyppidorum 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />. Gibedorum Goth.</note>
+    <note id="125" original="m">uni 2<ref type="note" target="s2" />.</note>
+    <note id="126" original="n">Guiselgarda 1a<ref type="note" target="s1a" />; Guisecarda 1b<ref type="note" target="s1b" />; uiuiscarda 2<ref type="note" target="s2" />; Wisicharda Goth.</note>
+    <note id="127" original="o">quem 1b<ref type="note" target="s1b" />.</note>
+    <note id="128" original="p">matrimonio 2<ref type="note" target="s2" />.</note>
+    <note id="129" original="q">Teudiperti 1b<ref type="note" target="s1b" />; Teodeperti regi 2<ref type="note" target="s2" />.</note>
+    <note id="130" original="r">Gualderada 1a<ref type="note" target="s1a" />, b; Walderata Goth.</note>
+    <note id="131" original="s">quem 1b<ref type="note" target="s1b" />; quam — Francorum des. 2<ref type="note" target="s2" />.</note>
+    <note id="132" original="t">Excusobald 1b<ref type="note" target="s1b" />; Chusubald Goth.; Cusupald Paul.</note>
+    <note id="133" original="u">quem 1b<ref type="note" target="s1b" />.</note>
+    <note id="134" original="v">Garispald 1a<ref type="note" target="s1a" />? Gairepaldi u. 1b<ref type="note" target="s1b" />; Garibaldi ad u. 2<ref type="note" target="s2" />.</note>
+    <note id="135" original="w">filio 1a<ref type="note" target="s1a" />.</note>
+    <note id="136" original="x">Et tertia filias r. Erul. n. 1b<ref type="note" target="s1b" />; Et postea accepit Wacho tertiam uxorem filiam regis Erulorum 2<ref type="note" target="s2" />; ad quem Goth. prope accedit.</note>
+    <note id="137" original="y">Esilinga 1a<ref type="note" target="s1a" />; Sigelinda 1b<ref type="note" target="s1b" />; Silinda 2<ref type="note" target="s2" />; Silenga Goth.; Salingam Paul.</note>
+    <note id="138" original="z">Gualtari 1b<ref type="note" target="s1b" />; Walterenem Goth.</note>
+    <note id="139" original="a">Et mortuus 2<ref type="note" target="s2" />.</note>
+    <note id="140" original="b">Guacco 1b<ref type="note" target="s1b" />.</note>
+    <note id="141" original="c">deest 1b<ref type="note" target="s1b" />.</note>
+    <note id="142" original="d">filium eius post ipsum 1b<ref type="note" target="s1b" />.</note>
+    <note id="143" original="e">Gualtari 1a<ref type="note" target="s1a" />, b.</note>
+    <note id="144" original="f">et fairagaldus 1b<ref type="note" target="s1b" />; deest 2<ref type="note" target="s2" />; fargaetum Goth.; quod est linguae Germaniae inferioris vergeten, nobis vergessen, ut primus Pertz vidit. Est enim parenthesis auctoris, id quod supra ponere oblitus erat hic supplentis. Bethm.</note>
+    <note id="145" original="g">Lethingis 1b<ref type="note" target="s1b" />; Letiguimi 2<ref type="note" target="s2" /> (leti vel letig a prima manu; altera addidit &#x1d59a;&#x1d58e;&#x1d592;&#x1d58e; vel &#x1d58c;&#x1d58e;&#x1d599;&#x1d58e;&#x1d592;&#x1d58e;, scribere volens ut videtur legitimi. Bethm.)</note>
+    <note id="146" original="h">Audohin 1b<ref type="note" target="s1b" />; Audoinus 2<ref type="note" target="s2" />.</note>
+    <note id="147" original="i">et ipse 1a<ref type="note" target="s1a" />.</note>
+    <note id="148" original="k">Longobardis 1a<ref type="note" target="s1a" />.</note>
+    <note id="149" original="l">Et post Audoinum r. filius eius A., cui 2<ref type="note" target="s2" />.</note>
+    <note id="150" original="m">Albohin 1b<ref type="note" target="s1b" />; Alboinus 2<ref type="note" target="s2" />.</note>
+    <note id="151" original="n">fuit 2<ref type="note" target="s2" />. Goth.</note>
+    <note id="152" original="o">Rodelinda 2<ref type="note" target="s2" />.</note>
+    <note id="153" original="p">Alboin 1b<ref type="note" target="s1b" />; Alboinus 2<ref type="note" target="s2" />.</note>
+    <note id="154" original="q">Gebedorum Goth.</note>
+    <note id="155" original="r">Cunimundum 1b<ref type="note" target="s1b" />.</note>
+    <note id="156" original="s">i. i. p. post suppl. 2<ref type="note" target="s2" />.</note>
+    <note id="157" original="t">Gyppidi 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />; Gebeti Goth.</note>
+    <note id="158" original="u">uxorem 1b<ref type="note" target="s1b" />. Et accepit Alboinus in uxorem . . . . mund. filiam 2<ref type="note" target="s2" />; Rosemoniam Goth.</note>
+    <note id="159" original="v">quem 1b<ref type="note" target="s1b" />; quam 2<ref type="note" target="s2" />.</note>
+    <note id="160" original="w">erat 2<ref type="note" target="s2" />.</note>
+    <note id="161" original="x">Floasuinda 1b<ref type="note" target="s1b" />; Flotsinda 2<ref type="note" target="s2" />; Ludusenda Goth.</note>
+    <note id="162" original="y">qui 1b<ref type="note" target="s1b" />.</note>
+    <note id="163" original="z">Flodthario 1b<ref type="note" target="s1b" />; Lotharii 2<ref type="note" target="s2" />; Flothari Goth.</note>
+    <note id="164" original="a">filiam 2<ref type="note" target="s2" />.</note>
+    <note id="165" original="b">Absoinda 1b<ref type="note" target="s1b" />; A . . . . nda 2<ref type="note" target="s2" />.</note>
+    <note id="166" original="c">annos quadraginta 1b<ref type="note" target="s1b" />; XIIdecim 2<ref type="note" target="s2" />.</note>
+    <note id="167" original="d">Italiam 2<ref type="note" target="s2" />.</note>
+    <note id="168" original="e">invitatus 1b<ref type="note" target="s1b" />.</note>
+    <note id="169" original="f">Narsi 1a<ref type="note" target="s1a" />.</note>
+    <note id="170" original="g">patricio 1b<ref type="note" target="s1b" />; deest 2<ref type="note" target="s2" />.</note>
+    <note id="171" original="h">mobuit 1a<ref type="note" target="s1a" />.</note>
+    <note id="172" original="i">deest 2<ref type="note" target="s2" />.</note>
+    <note id="173" original="k">in m. 2<ref type="note" target="s2" />.</note>
+    <note id="174" original="l">Aprȩlis 1b<ref type="note" target="s1b" />.</note>
+    <note id="175" original="m">in prima ind. 2<ref type="note" target="s2" />.</note>
+    <note id="176" original="n">In secunda 2<ref type="note" target="s2" />.</note>
+    <note id="177" original="o">i. incipiente Goth.</note>
+    <note id="178" original="p">c. p. in It. Tertia a. des. 2<ref type="note" target="s2" />.</note>
+    <note id="179" original="q">deest 1b<ref type="note" target="s1b" />.</note>
+    <note id="180" original="r">Et regnavit 2<ref type="note" target="s2" />.</note>
+    <note id="181" original="a">Ilmichis 1a<ref type="note" target="s1a" />; Elme corr. Elmechis 2<ref type="note" target="s2" />.</note>
+    <note id="182" original="b">Rosimunda 2<ref type="note" target="s2" />.</note>
+    <note id="183" original="c">uxorem suam 2<ref type="note" target="s2" />.</note>
+    <note id="184" original="d">Peredeo 1a<ref type="note" target="s1a" />; Peredei Goth.</note>
+    <note id="185" original="e">Et voluit 2<ref type="note" target="s2" />.</note>
+    <note id="186" original="f">eos 1a<ref type="note" target="s1a" />.</note>
+    <note id="187" original="g">Ravennam 1b<ref type="note" target="s1b" />; in Ravennam 2<ref type="note" target="s2" />.</note>
+    <note id="188" original="h">Mox — est des. 1b<ref type="note" target="s1b" />.</note>
+    <note id="189" original="i">et misit in navem angariales 2<ref type="note" target="s2" />; m. movere angarias Goth.</note>
+    <note id="190" original="k">Ilmichis 1b<ref type="note" target="s1b" />; Ermichis 2<ref type="note" target="s2" />.</note>
+    <note id="191" original="l">Absuinda 1b<ref type="note" target="s1b" />; Elsuinda 2<ref type="note" target="s2" />.</note>
+    <note id="192" original="m">filiam 1a<ref type="note" target="s1a" />.</note>
+    <note id="193" original="n">Alboini 2<ref type="note" target="s2" />.</note>
+    <note id="194" original="o">adduxit 1b<ref type="note" target="s1b" />.</note>
+    <note id="195" original="p">deest 1a<ref type="note" target="s1a" />.</note>
+    <note id="196" original="q">ortari 2<ref type="note" target="s2" />.</note>
+    <note id="197" original="r">Longinum prefectum 1a<ref type="note" target="s1a" />; quorum facit Goth.</note>
+    <note id="198" original="s">Rosimundam 2<ref type="note" target="s2" />.</note>
+    <note id="199" original="t">Ilm. hoc loco 1b<ref type="note" target="s1b" /> et postea etiam 1a<ref type="note" target="s1a" />.</note>
+    <note id="200" original="u">Longinis 1a<ref type="note" target="s1a" />.</note>
+    <note id="201" original="v">et audito 2<ref type="note" target="s2" />.</note>
+    <note id="202" original="w">consilio 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />.</note>
+    <note id="203" original="x">balneo 1b<ref type="note" target="s1b" />; balneum 2<ref type="note" target="s2" />.</note>
+    <note id="204" original="y">ei post add. 2<ref type="note" target="s2" />.</note>
+    <note id="205" original="z">callido 2<ref type="note" target="s2" />.</note>
+    <note id="206" original="a">vivisset 1b<ref type="note" target="s1b" />.</note>
+    <note id="207" original="b">Ildichis 1b<ref type="note" target="s1b" />.</note>
+    <note id="208" original="c">mox i. 1b<ref type="note" target="s1b" />.</note>
+    <note id="209" original="d">ita 1a<ref type="note" target="s1a" /> et Goth.; mortiferum potum 1b<ref type="note" target="s1b" />; malum 2<ref type="note" target="s2" />.</note>
+    <note id="210" original="e">et i. 1b<ref type="note" target="s1b" />.</note>
+    <note id="211" original="f">invito 1a<ref type="note" target="s1a" />; invitus 2<ref type="note" target="s2" />.</note>
+    <note id="212" original="g">cum autem bibisset ipsa 1b<ref type="note" target="s1b" />; qui cum bibisset 2<ref type="note" target="s2" />.</note>
+    <note id="213" original="h">thesaurum 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />.</note>
+    <note id="214" original="i">Absoinda 1b<ref type="note" target="s1b" />; Alsuinda 2<ref type="note" target="s2" />.</note>
+    <note id="215" original="k">filiam Alboini et 2<ref type="note" target="s2" />.</note>
+    <note id="216" original="l">deest 1a<ref type="note" target="s1a" />; i. eam 1b<ref type="note" target="s1b" />; i. e. p. in n. des. 2<ref type="note" target="s2" />.</note>
+    <note id="217" original="m">deest 1b<ref type="note" target="s1b" />; eam post add. 2<ref type="note" target="s2" />.</note>
+    <note id="218" original="n">in C. 2<ref type="note" target="s2" />.</note>
+    <note id="219" original="o">R. vero 2<ref type="note" target="s2" />.</note>
+    <note id="220" original="p">Leph 1a<ref type="note" target="s1a" />; Clep de Belleo erasa litera s 2<ref type="note" target="s2" />.</note>
+    <note id="221" original="q">Clep 2<ref type="note" target="s2" />.</note>
+    <note id="222" original="r">Et postea 2<ref type="note" target="s2" />.</note>
+    <note id="223" original="s">regem non habentes add. 1b<ref type="note" target="s1b" />.</note>
+    <note id="224" original="t">et p. 1a<ref type="note" target="s1a" />; postea 2<ref type="note" target="s2" />.</note>
+    <note id="225" original="u">s. l. 1a<ref type="note" target="s1a" />.</note>
+    <note id="226" original="v">Autarine 1a<ref type="note" target="s1a" />; Authari 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />; Autarenem Goth.</note>
+    <note id="227" original="w">Clephoni 1b<ref type="note" target="s1b" />; Cleffonis Goth.</note>
+    <note id="228" original="x">Authari 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" /> const.</note>
+    <note id="229" original="y">Theodelenda 1b<ref type="note" target="s1b" />; Teodelinda 2<ref type="note" target="s2" />.</note>
+    <note id="230" original="z">Garispald 1a<ref type="note" target="s1a" />; Gairipaldi 1b<ref type="note" target="s1b" />; Garibaldi 2<ref type="note" target="s2" />.</note>
+    <note id="231" original="a">Alderade 1a<ref type="note" target="s1a" />; Gualderada 1b<ref type="note" target="s1b" />.</note>
+    <note id="232" original="b">Baioria 1b<ref type="note" target="s1b" />; de Baioaria post. add. 2<ref type="note" target="s2" />.</note>
+    <note id="233" original="c">Teodelinda 2<ref type="note" target="s2" />; ea 1b<ref type="note" target="s1b" />.</note>
+    <note id="234" original="d">fratrem 1a<ref type="note" target="s1a" />.</note>
+    <note id="235" original="e">Gunduald 2<ref type="note" target="s2" />.</note>
+    <note id="236" original="f">civitate Astense 2<ref type="note" target="s2" />.</note>
+    <note id="237" original="g">Aquo 1b<ref type="note" target="s1b" />; Aggo 2<ref type="note" target="s2" />; Agilwald Goth.</note>
+    <note id="238" original="h">Thuringus 1a<ref type="note" target="s1a" />.</note>
+    <note id="239" original="i">Taurinis 2<ref type="note" target="s2" />.</note>
+    <note id="240" original="k">Theodel. 1b<ref type="note" target="s1b" />; Teodelinde 2<ref type="note" target="s2" />.</note>
+    <note id="241" original="l">dominus 2<ref type="note" target="s2" />.</note>
+    <note id="242" original="m">duos (superscr. duces) rebelles (suos, hoc sunt superscr.) 2<ref type="note" target="s2" />.</note>
+    <note id="243" original="n">Zangrolfum 1b<ref type="note" target="s1b" />; Gangulf 2<ref type="note" target="s2" />.</note>
+    <note id="244" original="o">Minulfu 1b<ref type="note" target="s1b" />; Mingulf 2<ref type="note" target="s2" />; Mimolfo Goth.</note>
+    <note id="245" original="p">Iulii 2<ref type="note" target="s2" />; Iuli Goth.</note>
+    <note id="246" original="q">Gaidolfum 1b<ref type="note" target="s1b" />.</note>
+    <note id="247" original="r">Pergamum 1b<ref type="note" target="s1b" />, Goth.</note>
+    <note id="248" original="s">seu et 2<ref type="note" target="s2" />.</note>
+    <note id="249" original="t">q. eis 1b<ref type="note" target="s1b" />.</note>
+    <note id="250" original="u">Aggo de Teulinda filiam unam nom. Gumperga et filium unum nom. Adroald 2<ref type="note" target="s2" />; et filio nomine Adelwald add. Goth.</note>
+    <note id="251" original="v">Gudepergam Goth.</note>
+    <note id="252" original="w">Et regnavit Adroald a. XII, et post ipsum regn. Airoald a. VII. 1b<ref type="note" target="s1b" />. Et regnavit Adroald post mortem patris sui annis XII (corr. XIII) 2<ref type="note" target="s2" />.</note>
+    <note id="253" original="x">ipsum 1b<ref type="note" target="s1b" />, 2<ref type="note" target="s2" />.</note>
+    <note id="254" original="y">de ex 1a<ref type="note" target="s1a" />.</note>
+    <note id="255" original="z">Arodum 1a<ref type="note" target="s1a" />; Arodus superscr. al 2<ref type="note" target="s2" />.</note>
+    <note id="256" original="a">civitates 2<ref type="note" target="s2" />.</note>
+    <note id="257" original="b">suhél (suhec?) 1a<ref type="note" target="s1a" />.</note>
+    <note id="258" original="c">litoralia 1a<ref type="note" target="s1a" />; litoria 1b<ref type="note" target="s1b" />.</note>
+    <note id="259" original="a">apersolone 1b<ref type="note" target="s1b" />; a prope 2<ref type="note" target="s2" />; est Italorum appresso.</note>
+    <note id="260" original="b">terram 2<ref type="note" target="s2" />.</note>
+    <note id="261" original="c">Ubisergius 1b<ref type="note" target="s1b" />; Ubiterga (manu sec. add. vertit) 2<ref type="note" target="s2" />; Opitergium Paul.</note>
+    <note id="262" original="d">orientis 1b<ref type="note" target="s1b" />; orientalem 2<ref type="note" target="s2" />.</note>
+    <note id="263" original="e">ex 2<ref type="note" target="s2" />.</note>
+    <note id="264" original="f">deest 2<ref type="note" target="s2" />.</note>
+    <note id="265" original="g">Rothari rex 2<ref type="note" target="s2" />.</note>
+    <note id="266" original="h">Ariperto 1b<ref type="note" target="s1b" />.</note>
+    <note id="267" original="i">postea regnavit Grimoald annis septem 2<ref type="note" target="s2" />.</note>
+    <note id="268" original="k">egressus 2<ref type="note" target="s2" />.</note>
+    <note id="269" original="l">Et — Berthari des. 2<ref type="note" target="s2" />.</note>
+    <note id="270" original="m">Vertari rex 1b<ref type="note" target="s1b" />.</note>
+    <note id="271" original="n">abhinc manus sec. usque ad Karolus a. XL. Tunc redit prima c.</note>
+    <note id="272" original="o">ita pro Rachis.</note>
+    <note id="273" original="p">regna c.</note>
+    <note id="274" original="1">I.21: relegat prologum edicti quem rex Rothari de Langobardorum legibus conposuit, et pene in omnibus hoc codicibus, sicut nos in hac historia inseruimus, scriptum repperiet. Quem cum edicti conjungendum esse, Bethmann, Arch. X, p360, statuit.</note>
+    <note id="275" original="2">Arch. l.c. p351 sq.</note>
+    <note id="276" original="3">Merkel, cod. Mutinensem secutus, qui regi Grimoaldo septem tantum annos tribuit, neque regis Pertari mentionem facit, Originem septimo illius anno (669) compositam esse, statui; cui Bethmann, l.c. p414, et Abel, Vers. germ. p. vii, adstipulati sunt. Neque tamen codicis illius auctoritas tanta est, ut certo certius hoc contendere ausim. Fortasse vero verba: Et post ipsum regnavit Grimoald, nullo annorum numero adjecto, ipsius regis tempore haec scripta esse, arguunt. Baudi di Vesme, Edicta p. lxxi, quae post Rothari regem addita sunt posteriori tempori tribuenda censet et regem illum hanc brevem historiam Edicto praemisisse putat. Sed quae huic obstant sententiae jam alibi monui, Gött. Gel. Anz. 1857, p1586, neque illa conjectura nunc placet. Cf. Bluhme LL. IV, p. cxii.</note>
+    <note id="277" original="4">Quae c. 4 de tempore quo a Langobardis Pannonia est relicta, Italia occupata, narrantur et regum singulorum anni certe non ex memoria sumta sunt.</note>
+    <note id="278" original="5">habebatque: quae habebat; sol surgente: cum sol surgeret; ad Winniles esset propitia: Winnili(s) esset propitia; ad partem orienti: ad p. orientalem; a parte: ex parte. Et multa ejusmodi.</note>
+    <note id="279" original="6">i. e. aldiones, non proprietarii. Haec est prima atque antiquissima aldionatus mentio, quae vox est Celtica aeildio. Merkel. Haec interpretatio an stare possit, valde dubito. W.</note>
+    <note id="280" original="7">Lamisio Roth, ed.; Lamissio vel Lamisio Paulus.</note>
+    <note id="281" original="8">Qui in Annalibus Feva dicitur. Feletheum qui et Feva Paulus.</note>
+    <note id="282" original="9">i. e. Theudobald; cf. Gregor. Tur. IV.9.</note>
+    <note id="283" original="10">Cf. Theophylact. VI.10. Bethm.</note>
+    <note id="284" original="11">Neque hic neque numerus 12 recte se habet. Si enim 42 annis in Pannonia habitassent, non Auduini sed Walthari temporibus in Pannoniam venissent. Quos vero quum Procopius III.33 jam a. 548 in Pannonia sedisse noverit, numerus quoque 12 stare non potest. Goth. correxit: 22. Bethm.</note>
+    <note id="285" original="12">Quod falsum esse patet; regnavit a. fere 26. Excidit Adaloaldas sive Adelwaldus, injuria sive auctoris sive scriptoris, qui 10 annis Langobardis praefuit. Quod codex Cavensis (1b<ref type="note" target="s1b" />) corrigere voluit.</note>
+  </footnotes>
+  <sourceNotes>
+    <note id="s1a">Matritensis</note>
+    <note id="s1b">Cavensis</note>
+    <note id="s2">Mutinensis</note>
+    </sourceNotes>
+</div>
+</text>
+</TEI>

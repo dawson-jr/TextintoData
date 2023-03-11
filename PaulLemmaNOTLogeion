@@ -1,0 +1,13 @@
+5 words in Paul's Origo which Logeion SQLite could not find
+"codico"
+"Francus"
+"Mutinensis"
+"Pannonius"
+"sanctum"
+
+Explanations:
+codico (codices) >> it didn't know how to decline codex
+Francus >> in "headwords" list but not "entries" list
+Mutinensis >> actually Mutina, in adjective form
+ditto Pannonius
+sanctum (Sancti Juliani) >> should probably be sanctus
